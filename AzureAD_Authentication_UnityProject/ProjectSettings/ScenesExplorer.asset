@@ -1,0 +1,82 @@
+AdminPanel|True|Assets/AdminPanel/Scenes/AdminPanel.unity
+AdminPanelUserManagement|True|Assets/AdminPanel/Scenes/AdminPanelUserManagement.unity
+NodeEditor|False|Assets/AdminPanel/Scenes/NodeEditor.unity
+AvatarArtworkTest|False|Assets/Artwork/3D/Avatars/AvatarArtworkTest.unity
+AvatarTest|False|Assets/Artwork/3D/Avatars/AvatarTest.unity
+Demo|False|Assets/Artwork/3D/CustomisableAvatar/Demo.unity
+Demo2DJumpAndRunWithPhysics-Scene|False|Assets/Photon Unity Networking/Demos/Demo2DJumpAndRunWithPhysics/Demo2DJumpAndRunWithPhysics-Scene.unity
+DemoBoxes-Scene|False|Assets/Photon Unity Networking/Demos/DemoBoxes/DemoBoxes-Scene.unity
+DemoChangeOwner-Scene|False|Assets/Photon Unity Networking/Demos/DemoChangeOwner/DemoChangeOwner-Scene.unity
+DemoChat-Scene|False|Assets/Photon Unity Networking/Demos/DemoChat/DemoChat-Scene.unity
+DemoFriends-Scene|False|Assets/Photon Unity Networking/Demos/DemoFriendsAndCustomAuth/DemoFriends-Scene.unity
+DemoHub-Scene|False|Assets/Photon Unity Networking/Demos/DemoHub/DemoHub-Scene.unity
+DemoHub-Scene-V2|False|Assets/Photon Unity Networking/Demos/DemoHub/DemoHub-Scene-V2.unity
+DemoMecanim-Scene|False|Assets/Photon Unity Networking/Demos/DemoMecanim/DemoMecanim-Scene.unity
+DemoPickup-Scene|False|Assets/Photon Unity Networking/Demos/DemoPickup/DemoPickup-Scene.unity
+DemoRPS-Connect-Scene|False|Assets/Photon Unity Networking/Demos/DemoRockPaperScissors/DemoRPS-Connect-Scene.unity
+DemoRPS-Scene|False|Assets/Photon Unity Networking/Demos/DemoRockPaperScissors/DemoRPS-Scene.unity
+DemoRPGMovement-Scene|False|Assets/Photon Unity Networking/Demos/DemoRPGMovement/DemoRPGMovement-Scene.unity
+DemoSynchronization-Scene|False|Assets/Photon Unity Networking/Demos/DemoSynchronization/DemoSynchronization-Scene.unity
+DemoWorker-Scene|False|Assets/Photon Unity Networking/Demos/DemoWorker/DemoWorker-Scene.unity
+DemoWorkerGame-Scene|False|Assets/Photon Unity Networking/Demos/DemoWorker/DemoWorkerGame-Scene.unity
+MarcoPolo-Scene|False|Assets/Photon Unity Networking/Demos/MarcoPolo-Tutorial/MarcoPolo-Scene.unity
+PunBasics-Launcher|False|Assets/Photon Unity Networking/Demos/PunBasics-Tutorial/Scenes/PunBasics-Launcher.unity
+PunBasics-Room for 1|False|Assets/Photon Unity Networking/Demos/PunBasics-Tutorial/Scenes/PunBasics-Room for 1.unity
+PunBasics-Room for 2|False|Assets/Photon Unity Networking/Demos/PunBasics-Tutorial/Scenes/PunBasics-Room for 2.unity
+PunBasics-Room for 3|False|Assets/Photon Unity Networking/Demos/PunBasics-Tutorial/Scenes/PunBasics-Room for 3.unity
+PunBasics-Room for 4|False|Assets/Photon Unity Networking/Demos/PunBasics-Tutorial/Scenes/PunBasics-Room for 4.unity
+Canvas|False|Assets/Plugins&Tools/DataVisualisation/Canvas.unity
+SpiderDiagram|False|Assets/Plugins&Tools/DataVisualisation/SpiderDiagram.unity
+Detonator-TestWall|False|Assets/Plugins&Tools/Detonator Explosion Framework/TestScene/Detonator-TestWall.unity
+demo|False|Assets/Plugins&Tools/Dice/scenes/Demo/demo.unity
+Demo|False|Assets/Plugins&Tools/EasyMovieTexture/Scene/Demo.unity
+Demo_FullScreen|False|Assets/Plugins&Tools/EasyMovieTexture/Scene/Demo_FullScreen.unity
+Demo_Sphere|False|Assets/Plugins&Tools/EasyMovieTexture/Scene/Demo_Sphere.unity
+DemoScene|False|Assets/Plugins&Tools/RainMaker/Demo/DemoScene.unity
+DemoScene2D|False|Assets/Plugins&Tools/RainMaker/Demo/DemoScene2D.unity
+Toon Character - Bonus Animations SCN|False|Assets/Plugins&Tools/Toon Character Pack/Scenes/Toon Character - Bonus Animations SCN.unity
+Toon Character SCN|False|Assets/Plugins&Tools/Toon Character Pack/Scenes/Toon Character SCN.unity
+Toon Character SCN Smooth|False|Assets/Plugins&Tools/Toon Character Pack/Scenes/Toon Character SCN Smooth.unity
+BoardGame|True|Assets/Scenes/Feedback/Board Game/BoardGame.unity
+PerformanceFeedback|True|Assets/Scenes/Feedback/PerformanceFeedback.unity
+Ship|True|Assets/Scenes/Feedback/Ship/Ship.unity
+ShipMap|True|Assets/Scenes/Feedback/Ship/ShipMap.unity
+Tree|True|Assets/Scenes/Feedback/Tree/Tree.unity
+FacilitatorMaker|True|Assets/Scenes/InteractiveActivity/FacilitatorMaker.unity
+GenericActivity|True|Assets/Scenes/InteractiveActivity/GenericActivity.unity
+Analogue|True|Assets/Scenes/MicroExperiences/Analogue.unity
+Archery|True|Assets/Scenes/MicroExperiences/Archery.unity
+CoinPusher|True|Assets/Scenes/MicroExperiences/CoinPusher.unity
+Conversation|True|Assets/Scenes/MicroExperiences/Conversation.unity
+InvisiblePlatformsL1|True|Assets/Scenes/MicroExperiences/InvisiblePlatforms/InvisiblePlatformsL1.unity
+InvisiblePlatformsL2|True|Assets/Scenes/MicroExperiences/InvisiblePlatforms/InvisiblePlatformsL2.unity
+InvisiblePlatformsL3|True|Assets/Scenes/MicroExperiences/InvisiblePlatforms/InvisiblePlatformsL3.unity
+InvisiblePlatformsL4|True|Assets/Scenes/MicroExperiences/InvisiblePlatforms/InvisiblePlatformsL4.unity
+InvisiblePlatformsL5|True|Assets/Scenes/MicroExperiences/InvisiblePlatforms/InvisiblePlatformsL5.unity
+InvisiblePlatformsL6|True|Assets/Scenes/MicroExperiences/InvisiblePlatforms/InvisiblePlatformsL6.unity
+MicroExperience_Template|True|Assets/Scenes/MicroExperiences/MicroExperience_Template.unity
+OldBridgeL1|True|Assets/Scenes/MicroExperiences/OldBridge/OldBridgeL1.unity
+OldBridgeL2|True|Assets/Scenes/MicroExperiences/OldBridge/OldBridgeL2.unity
+OldBridgeL3|True|Assets/Scenes/MicroExperiences/OldBridge/OldBridgeL3.unity
+OldBridgeL4|True|Assets/Scenes/MicroExperiences/OldBridge/OldBridgeL4.unity
+OldBridgeL5|True|Assets/Scenes/MicroExperiences/OldBridge/OldBridgeL5.unity
+PasswordL1|True|Assets/Scenes/MicroExperiences/Password/PasswordL1.unity
+PasswordL2|True|Assets/Scenes/MicroExperiences/Password/PasswordL2.unity
+PasswordL3|True|Assets/Scenes/MicroExperiences/Password/PasswordL3.unity
+PasswordL4|True|Assets/Scenes/MicroExperiences/Password/PasswordL4.unity
+PasswordL5|True|Assets/Scenes/MicroExperiences/Password/PasswordL5.unity
+Risk|True|Assets/Scenes/MicroExperiences/Risk.unity
+Waiter|True|Assets/Scenes/MicroExperiences/Waiter.unity
+AvatarCustomisation|True|Assets/Scenes/OutsideMPGame/AvatarCustomisation.unity
+CreateOrJoin|True|Assets/Scenes/OutsideMPGame/CreateOrJoin.unity
+Hub|True|Assets/Scenes/OutsideMPGame/Hub/Hub.unity
+TeamHub|True|Assets/Scenes/OutsideMPGame/Hub/TeamHub.unity
+Login|True|Assets/Scenes/OutsideMPGame/Login.unity
+LoginIntro|True|Assets/Scenes/OutsideMPGame/LoginIntro.unity
+PlayerRoomLobby|True|Assets/Scenes/OutsideMPGame/PlayerRoomLobby.unity
+Plaza|True|Assets/Scenes/OutsideMPGame/Plaza/Plaza.unity
+UserRegistration|True|Assets/Scenes/OutsideMPGame/UserRegistration.unity
+TravellingVan|True|Assets/Scenes/Transitions/TravellingVan.unity
+VideoPhone|False|Assets/Scenes/Transitions/VideoPhone.unity
+VideoPhoneCalling|False|Assets/Scenes/Transitions/VideoPhoneCalling.unity
+_ToonShadingSample|False|Assets/Standard Assets/Toon Shading/_ToonShadingSample.unity
